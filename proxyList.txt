@@ -3553,16 +3553,16 @@
 172.232.239.151,587,ID,Akamai Connected Cloud
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
-103.168.146.169,20132,ID,Herza
 103.6.207.108,8080,ID,Pusat Media Indonesia
 35.219.15.90,443,ID,Google Cloud
 35.219.50.99,443,ID,Google Cloud
-36.95.152.58,12137,ID,Telkom Indonesia
 8.215.196.18,587,ID,Alibaba
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.237.112,2053,ID,Akamai Connected Cloud
+172.232.239.151,587,ID,Akamai Connected Cloud
 36.95.152.58,12137,ID,PT Telkom Indonesia
+203.194.112.119,8443,ID,Rumahweb
 40.113.60.248,2053,IE,Microsoft Azure
 52.19.178.111,8443,IE,Amazon.com
 34.253.234.62,443,IE,Amazon.com
