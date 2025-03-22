@@ -3554,7 +3554,6 @@
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
 103.6.207.108,8080,ID,Pusat Media Indonesia
 35.219.15.90,443,ID,Google Cloud
-35.219.50.99,443,ID,Google Cloud
 8.215.196.18,587,ID,Alibaba
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
